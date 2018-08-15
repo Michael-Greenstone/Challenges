@@ -1,0 +1,17 @@
+C:\Users\Limited\source\repos\ConsoleApp1\UnitTest\obj\Debug\UnitTest.csprojAssemblyReference.cache
+C:\Users\Limited\source\repos\ConsoleApp1\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Limited\source\repos\ConsoleApp1\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Limited\source\repos\ConsoleApp1\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Limited\source\repos\ConsoleApp1\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Limited\source\repos\ConsoleApp1\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\Limited\source\repos\ConsoleApp1\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\Limited\source\repos\ConsoleApp1\UnitTest\bin\Debug\LoanCalculator.exe
+C:\Users\Limited\source\repos\ConsoleApp1\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Limited\source\repos\ConsoleApp1\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Limited\source\repos\ConsoleApp1\UnitTest\bin\Debug\LoanCalculator.pdb
+C:\Users\Limited\source\repos\ConsoleApp1\UnitTest\bin\Debug\LoanCalculator.exe.config
+C:\Users\Limited\source\repos\ConsoleApp1\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Limited\source\repos\ConsoleApp1\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Limited\source\repos\ConsoleApp1\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete
+C:\Users\Limited\source\repos\ConsoleApp1\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\Limited\source\repos\ConsoleApp1\UnitTest\obj\Debug\UnitTest.pdb
